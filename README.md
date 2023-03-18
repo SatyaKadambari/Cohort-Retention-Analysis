@@ -10,4 +10,4 @@ Created a Tableau Dashboard to display the results of the analysis.
  
 Here is the final Dashboard:
 
-(Cohort Analysis.jpg)  
+https://github.com/SatyaKadambari/Cohort-Retention-Analysis/issues/1#issue-1630511177 
