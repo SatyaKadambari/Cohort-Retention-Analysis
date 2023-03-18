@@ -7,4 +7,4 @@ This type of analysis helps the store the retention rate of the customers, value
  
 Here is the final Dashboard:
 
-[Dashboard](Page1_dashboard.jpg)  
+[Dashboard](Cohort Analysis.jpg)  
