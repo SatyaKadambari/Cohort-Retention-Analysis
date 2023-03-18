@@ -10,4 +10,4 @@ Created a Tableau Dashboard to display the results of the analysis.
  
 Here is the final Dashboard:
 
-![Cohort-Retention-Analysis](Cohort Analysis.jpg)
+[Cohort-Retention-Analysis](Cohort Analysis.jpg)
