@@ -8,6 +8,3 @@ I have used SQL to remove duplicates using window functions. Then I created the 
 This type of analysis helps the store the retention rate of the customers, value that customer adds to their sales and many more. I have used window functions, CTEs to make the data ready for analysis and then visualizing it. 
 Created a Tableau Dashboard to display the results of the analysis. 
  
-Here is the final Dashboard:
-
-[Cohort-Retention-Analysis](Cohort Analysis.jpg)
