@@ -10,4 +10,4 @@ Created a Tableau Dashboard to display the results of the analysis.
  
 Here is the final Dashboard:
 
-![Dashboard](Cohort Analysis.jpg)  
+(Cohort Analysis.jpg)  
